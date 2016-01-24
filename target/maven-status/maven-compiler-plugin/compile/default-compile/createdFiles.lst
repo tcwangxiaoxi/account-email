@@ -1,0 +1,5 @@
+com\juvenxu\mvnbook\account\email\AccountMailSender.class
+com\juvenxu\mvnbook\account\Application.class
+com\juvenxu\mvnbook\account\email\exception\AccountEmailException.class
+com\juvenxu\mvnbook\account\email\AccountEmailService.class
+com\juvenxu\mvnbook\account\email\AccountEmailServiceImpl.class

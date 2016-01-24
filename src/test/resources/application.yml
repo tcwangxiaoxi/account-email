@@ -1,0 +1,10 @@
+accountmailsender:
+  protocol: smtps
+  host: 466
+  username: tcwxx@163.com
+  password: TC198808221
+  java-mail-properties:
+    mail.smtps.auth: true
+  system-email: tcwangxiaoxi@163.com 
+     
+wxx: 123
